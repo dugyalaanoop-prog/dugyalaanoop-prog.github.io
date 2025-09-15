@@ -1,0 +1,12 @@
+# app-ads.txt for Daily Task Tracker
+# This file authorizes Google AdMob to sell ad inventory for this app
+# Format: adnxs.com, pub-6157808635813290, DIRECT, f08c47fec0942fa0
+
+# Google AdMob
+google.com, pub-6157808635813290, DIRECT, f08c47fec0942fa0
+
+# Google Ad Manager (if using)
+# google.com, pub-6157808635813290, DIRECT, f08c47fec0942fa0
+
+# Note: Only include networks you actually use
+# Your AdMob Publisher ID: pub-6157808635813290
